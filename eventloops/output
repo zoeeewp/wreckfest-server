@@ -1,0 +1,706 @@
+el_add= speedway2_figure_8
+el_gamemode=racing
+el_laps=12
+el_bots=
+el_car_class_restriction=
+el_car_restriction=
+
+el_add= mixed4_main_circuit_rev
+el_gamemode=racing
+el_laps=5
+el_bots=
+el_car_class_restriction=
+el_car_restriction=
+
+el_add= mixed7_r1
+el_gamemode=racing
+el_laps=5
+el_bots=
+el_car_class_restriction=
+el_car_restriction=
+
+el_add= mixed8_r1
+el_gamemode=racing
+el_laps=5
+el_bots=
+el_car_class_restriction=
+el_car_restriction=
+
+el_add= speedway2_figure_8
+el_gamemode=racing
+el_laps=5
+el_bots=
+el_car_class_restriction=
+el_car_restriction=
+
+el_add= forest12_1_rev
+el_gamemode=racing
+el_laps=5
+el_bots=
+el_car_class_restriction=
+el_car_restriction=
+
+el_add= speedway1_figure_8
+el_gamemode=racing
+el_laps=12
+el_bots=
+el_car_class_restriction=
+el_car_restriction=
+
+el_add= speedway2_outer_oval
+el_gamemode=racing
+el_laps=5
+el_bots=
+el_car_class_restriction=
+el_car_restriction=
+
+el_add= fields09_1
+el_gamemode=racing
+el_laps=5
+el_bots=
+el_car_class_restriction=
+el_car_restriction=
+
+el_add= sandpit1_long_loop_rev
+el_gamemode=racing
+el_laps=5
+el_bots=
+el_car_class_restriction=
+el_car_restriction=
+
+el_add= speedway1_figure_8
+el_gamemode=racing
+el_laps=5
+el_bots=
+el_car_class_restriction=
+el_car_restriction=
+
+el_add= mixed7_r1_rev
+el_gamemode=racing
+el_laps=5
+el_bots=
+el_car_class_restriction=
+el_car_restriction=
+
+el_add= sandpit3_long_loop_rev
+el_gamemode=racing
+el_laps=5
+el_bots=
+el_car_class_restriction=
+el_car_restriction=
+
+el_add= bigstadium_figure_8
+el_gamemode=racing
+el_laps=12
+el_bots=
+el_car_class_restriction=
+el_car_restriction=
+
+el_add= sandpit1_alt_loop
+el_gamemode=racing
+el_laps=5
+el_bots=
+el_car_class_restriction=
+el_car_restriction=
+
+el_add= speedway2_figure_8
+el_gamemode=racing
+el_laps=12
+el_bots=
+el_car_class_restriction=
+el_car_restriction=
+
+el_add= sandpit1_short_loop
+el_gamemode=racing
+el_laps=5
+el_bots=
+el_car_class_restriction=
+el_car_restriction=
+
+el_add= speedway1_figure_8
+el_gamemode=racing
+el_laps=12
+el_bots=
+el_car_class_restriction=
+el_car_restriction=
+
+el_add= forest11_2
+el_gamemode=racing
+el_laps=5
+el_bots=
+el_car_class_restriction=
+el_car_restriction=
+
+el_add= tarmac3_main_circuit_rev
+el_gamemode=racing
+el_laps=5
+el_bots=
+el_car_class_restriction=
+el_car_restriction=
+
+el_add= urban08_1_rev
+el_gamemode=racing
+el_laps=5
+el_bots=
+el_car_class_restriction=
+el_car_restriction=
+
+el_add= fields12_1
+el_gamemode=racing
+el_laps=5
+el_bots=
+el_car_class_restriction=
+el_car_restriction=
+
+el_add= sandpit1_long_loop
+el_gamemode=racing
+el_laps=5
+el_bots=
+el_car_class_restriction=
+el_car_restriction=
+
+el_add= mixed8_r1
+el_gamemode=racing
+el_laps=5
+el_bots=
+el_car_class_restriction=
+el_car_restriction=
+
+el_add= fields12_2
+el_gamemode=racing
+el_laps=5
+el_bots=
+el_car_class_restriction=
+el_car_restriction=
+
+el_add= bigstadium_figure_8
+el_gamemode=racing
+el_laps=12
+el_bots=
+el_car_class_restriction=
+el_car_restriction=
+
+el_add= speedway2_inner_oval
+el_gamemode=racing
+el_laps=5
+el_bots=
+el_car_class_restriction=
+el_car_restriction=
+
+el_add= speedway1_figure_8
+el_gamemode=racing
+el_laps=12
+el_bots=
+el_car_class_restriction=
+el_car_restriction=
+
+el_add= triangle_r1
+el_gamemode=racing
+el_laps=5
+el_bots=
+el_car_class_restriction=
+el_car_restriction=
+
+el_add= mixed3_long_loop_rev
+el_gamemode=racing
+el_laps=5
+el_bots=
+el_car_class_restriction=
+el_car_restriction=
+
+el_add= speedway1_figure_8
+el_gamemode=racing
+el_laps=12
+el_bots=
+el_car_class_restriction=
+el_car_restriction=
+
+el_add= speedway1_figure_8
+el_gamemode=racing
+el_laps=12
+el_bots=
+el_car_class_restriction=
+el_car_restriction=
+
+el_add= fields09_1
+el_gamemode=racing
+el_laps=5
+el_bots=
+el_car_class_restriction=
+el_car_restriction=
+
+el_add= speedway1_figure_8
+el_gamemode=racing
+el_laps=12
+el_bots=
+el_car_class_restriction=
+el_car_restriction=
+
+el_add= mixed9_r1_rev
+el_gamemode=racing
+el_laps=5
+el_bots=
+el_car_class_restriction=
+el_car_restriction=
+
+el_add= dirt_speedway_figure_8
+el_gamemode=racing
+el_laps=12
+el_bots=
+el_car_class_restriction=
+el_car_restriction=
+
+el_add= gravel1_main_loop
+el_gamemode=racing
+el_laps=5
+el_bots=
+el_car_class_restriction=
+el_car_restriction=
+
+el_add= fields12_1
+el_gamemode=racing
+el_laps=5
+el_bots=
+el_car_class_restriction=
+el_car_restriction=
+
+el_add= fields12_1_rev
+el_gamemode=racing
+el_laps=5
+el_bots=
+el_car_class_restriction=
+el_car_restriction=
+
+el_add= dirt_speedway_figure_8
+el_gamemode=racing
+el_laps=12
+el_bots=
+el_car_class_restriction=
+el_car_restriction=
+
+el_add= mixed3_short_loop_rev
+el_gamemode=racing
+el_laps=5
+el_bots=
+el_car_class_restriction=
+el_car_restriction=
+
+el_add= bigstadium_figure_8
+el_gamemode=racing
+el_laps=12
+el_bots=
+el_car_class_restriction=
+el_car_restriction=
+
+el_add= sandpit3_long_loop
+el_gamemode=racing
+el_laps=5
+el_bots=
+el_car_class_restriction=
+el_car_restriction=
+
+el_add= bonebreaker_valley_main_circuit
+el_gamemode=racing
+el_laps=5
+el_bots=
+el_car_class_restriction=
+el_car_restriction=
+
+el_add= mixed5_inner_loop
+el_gamemode=racing
+el_laps=5
+el_bots=
+el_car_class_restriction=
+el_car_restriction=
+
+el_add= tarmac1_main_circuit
+el_gamemode=racing
+el_laps=5
+el_bots=
+el_car_class_restriction=
+el_car_restriction=
+
+el_add= speedway2_figure_8
+el_gamemode=racing
+el_laps=12
+el_bots=
+el_car_class_restriction=
+el_car_restriction=
+
+el_add= tarmac2_main_circuit
+el_gamemode=racing
+el_laps=5
+el_bots=
+el_car_class_restriction=
+el_car_restriction=
+
+el_add= speedway1_figure_8
+el_gamemode=racing
+el_laps=12
+el_bots=
+el_car_class_restriction=
+el_car_restriction=
+
+el_add= forest12_1
+el_gamemode=racing
+el_laps=5
+el_bots=
+el_car_class_restriction=
+el_car_restriction=
+
+el_add= tarmac2_main_circuit
+el_gamemode=racing
+el_laps=5
+el_bots=
+el_car_class_restriction=
+el_car_restriction=
+
+el_add= forest11_2_rev
+el_gamemode=racing
+el_laps=5
+el_bots=
+el_car_class_restriction=
+el_car_restriction=
+
+el_add= tarmac3_main_circuit_rev
+el_gamemode=racing
+el_laps=5
+el_bots=
+el_car_class_restriction=
+el_car_restriction=
+
+el_add= tarmac3_main_circuit_rev
+el_gamemode=racing
+el_laps=5
+el_bots=
+el_car_class_restriction=
+el_car_restriction=
+
+el_add= forest12_1
+el_gamemode=racing
+el_laps=5
+el_bots=
+el_car_class_restriction=
+el_car_restriction=
+
+el_add= sandpit1_alt_loop_rev
+el_gamemode=racing
+el_laps=5
+el_bots=
+el_car_class_restriction=
+el_car_restriction=
+
+el_add= mixed4_main_circuit
+el_gamemode=racing
+el_laps=5
+el_bots=
+el_car_class_restriction=
+el_car_restriction=
+
+el_add= tarmac1_main_circuit_rev
+el_gamemode=racing
+el_laps=5
+el_bots=
+el_car_class_restriction=
+el_car_restriction=
+
+el_add= forest11_1
+el_gamemode=racing
+el_laps=5
+el_bots=
+el_car_class_restriction=
+el_car_restriction=
+
+el_add= dirt_speedway_figure_8
+el_gamemode=racing
+el_laps=12
+el_bots=
+el_car_class_restriction=
+el_car_restriction=
+
+el_add= speedway2_figure_8
+el_gamemode=racing
+el_laps=12
+el_bots=
+el_car_class_restriction=
+el_car_restriction=
+
+el_add= speedway1_oval
+el_gamemode=racing
+el_laps=5
+el_bots=
+el_car_class_restriction=
+el_car_restriction=
+
+el_add= tarmac2_main_circuit_rev
+el_gamemode=racing
+el_laps=5
+el_bots=
+el_car_class_restriction=
+el_car_restriction=
+
+el_add= speedway2_figure_8
+el_gamemode=racing
+el_laps=12
+el_bots=
+el_car_class_restriction=
+el_car_restriction=
+
+el_add= dirt_speedway_figure_8
+el_gamemode=racing
+el_laps=12
+el_bots=
+el_car_class_restriction=
+el_car_restriction=
+
+el_add= urban08_1
+el_gamemode=racing
+el_laps=5
+el_bots=
+el_car_class_restriction=
+el_car_restriction=
+
+el_add= speedway2_figure_8
+el_gamemode=racing
+el_laps=12
+el_bots=
+el_car_class_restriction=
+el_car_restriction=
+
+el_add= mixed5_outer_loop_rev
+el_gamemode=racing
+el_laps=5
+el_bots=
+el_car_class_restriction=
+el_car_restriction=
+
+el_add= speedway2_figure_8
+el_gamemode=racing
+el_laps=5
+el_bots=
+el_car_class_restriction=
+el_car_restriction=
+
+el_add= dirt_speedway_figure_8
+el_gamemode=racing
+el_laps=12
+el_bots=
+el_car_class_restriction=
+el_car_restriction=
+
+el_add= mixed5_outer_loop
+el_gamemode=racing
+el_laps=5
+el_bots=
+el_car_class_restriction=
+el_car_restriction=
+
+el_add= speedway2_figure_8
+el_gamemode=racing
+el_laps=12
+el_bots=
+el_car_class_restriction=
+el_car_restriction=
+
+el_add= mixed5_outer_loop_rev
+el_gamemode=racing
+el_laps=5
+el_bots=
+el_car_class_restriction=
+el_car_restriction=
+
+el_add= mixed5_inner_loop
+el_gamemode=racing
+el_laps=5
+el_bots=
+el_car_class_restriction=
+el_car_restriction=
+
+el_add= bigstadium_figure_8
+el_gamemode=racing
+el_laps=12
+el_bots=
+el_car_class_restriction=
+el_car_restriction=
+
+el_add= forest12_1
+el_gamemode=racing
+el_laps=5
+el_bots=
+el_car_class_restriction=
+el_car_restriction=
+
+el_add= triangle_r1
+el_gamemode=racing
+el_laps=5
+el_bots=
+el_car_class_restriction=
+el_car_restriction=
+
+el_add= bigstadium_figure_8
+el_gamemode=racing
+el_laps=12
+el_bots=
+el_car_class_restriction=
+el_car_restriction=
+
+el_add= mixed1_main_circuit
+el_gamemode=racing
+el_laps=5
+el_bots=
+el_car_class_restriction=
+el_car_restriction=
+
+el_add= bonebreaker_valley_main_circuit
+el_gamemode=racing
+el_laps=5
+el_bots=
+el_car_class_restriction=
+el_car_restriction=
+
+el_add= sandpit3_long_loop_rev
+el_gamemode=racing
+el_laps=5
+el_bots=
+el_car_class_restriction=
+el_car_restriction=
+
+el_add= dirt_speedway_figure_8
+el_gamemode=racing
+el_laps=12
+el_bots=
+el_car_class_restriction=
+el_car_restriction=
+
+el_add= sandpit1_short_loop_rev
+el_gamemode=racing
+el_laps=5
+el_bots=
+el_car_class_restriction=
+el_car_restriction=
+
+el_add= mixed2_main_circuit_rev
+el_gamemode=racing
+el_laps=5
+el_bots=
+el_car_class_restriction=
+el_car_restriction=
+
+el_add= tarmac3_main_circuit
+el_gamemode=racing
+el_laps=5
+el_bots=
+el_car_class_restriction=
+el_car_restriction=
+
+el_add= sandpit1_alt_loop
+el_gamemode=racing
+el_laps=5
+el_bots=
+el_car_class_restriction=
+el_car_restriction=
+
+el_add= sandpit1_short_loop_rev
+el_gamemode=racing
+el_laps=5
+el_bots=
+el_car_class_restriction=
+el_car_restriction=
+
+el_add= mixed3_short_loop
+el_gamemode=racing
+el_laps=5
+el_bots=
+el_car_class_restriction=
+el_car_restriction=
+
+el_add= gravel1_main_loop_rev
+el_gamemode=racing
+el_laps=5
+el_bots=
+el_car_class_restriction=
+el_car_restriction=
+
+el_add= dirt_speedway_dirt_oval
+el_gamemode=racing
+el_laps=5
+el_bots=
+el_car_class_restriction=
+el_car_restriction=
+
+el_add= speedway1_figure_8
+el_gamemode=racing
+el_laps=12
+el_bots=
+el_car_class_restriction=
+el_car_restriction=
+
+el_add= sandpit3_short_loop_rev
+el_gamemode=racing
+el_laps=5
+el_bots=
+el_car_class_restriction=
+el_car_restriction=
+
+el_add= tarmac3_short_circuit_rev
+el_gamemode=racing
+el_laps=5
+el_bots=
+el_car_class_restriction=
+el_car_restriction=
+
+el_add= speedway2_figure_8
+el_gamemode=racing
+el_laps=5
+el_bots=
+el_car_class_restriction=
+el_car_restriction=
+
+el_add= mixed3_long_loop_rev
+el_gamemode=racing
+el_laps=5
+el_bots=
+el_car_class_restriction=
+el_car_restriction=
+
+el_add= sandpit3_long_loop_rev
+el_gamemode=racing
+el_laps=5
+el_bots=
+el_car_class_restriction=
+el_car_restriction=
+
+el_add= sandpit1_long_loop
+el_gamemode=racing
+el_laps=5
+el_bots=
+el_car_class_restriction=
+el_car_restriction=
+
+el_add= fields13_1_rev
+el_gamemode=racing
+el_laps=5
+el_bots=
+el_car_class_restriction=
+el_car_restriction=
+
+el_add= dirt_speedway_figure_8
+el_gamemode=racing
+el_laps=12
+el_bots=
+el_car_class_restriction=
+el_car_restriction=
+
+el_add= sandpit1_short_loop_rev
+el_gamemode=racing
+el_laps=5
+el_bots=
+el_car_class_restriction=
+el_car_restriction=
+
+el_add= speedway2_oval_loop
+el_gamemode=racing
+el_laps=5
+el_bots=
+el_car_class_restriction=
+el_car_restriction=

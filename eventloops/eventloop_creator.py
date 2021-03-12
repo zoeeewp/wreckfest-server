@@ -13,7 +13,7 @@ with open('./figure_8_maps.txt') as f:
 
 class_restrictions = ['a','b','c','a','b','c','special']
 figure_8_class_restrictions = ['a','b','c','special']
-arena_restrictions = ['school bus','lawn mower','bumper car','honey pot']
+arena_restrictions = []
 figure_8_restrictions = ['school bus','school bus','school bus','school bus','motor home','sofa car','big rig']
 racing_restrictions = ['school bus','school bus','school bus','school bus','school bus','school bus','school bus','school bus','motor home','sofa car','bugzilla','big rig']
 laps = ['5', '6', '7']
@@ -23,18 +23,20 @@ while x <= 100:
     y = randint(0,100)
 
     if y > 90:
-        z_map = random.choice(arena_maps)
+        z_map = random.choice(racing_maps)
 
         z_class_restriction = random.choice(class_restrictions)
         z_car_restriction = ''
         if z_class_restriction == 'special':
             z_class_restriction = ''
-            z_car_restriction = random.choice(arena_restrictions)
-        print('el_add=',z_map)
-        print('el_gamemode=derby deathmatch')
-        print('el_bots=',randint(10,20))
-        print('el_car_class_restriction=',z_class_restriction)
-        print('el_car_restriction=',z_car_restriction)
+            z_car_restriction = random.choice(racing_restrictions)
+        
+        print("el_add=",z_map)
+        print('el_gamemode=racing')
+        print('el_laps=5')
+        print('el_bots=')
+        print('el_car_class_restriction=')
+        print('el_car_restriction=')
         print('')
     
     elif y < 20:
@@ -49,9 +51,9 @@ while x <= 100:
         print("el_add=",z_map)
         print('el_gamemode=racing')
         print('el_laps=12')
-        print('el_bots=24')
-        print('el_car_class_restriction=',z_class_restriction)
-        print('el_car_restriction=',z_car_restriction)
+        print('el_bots=')
+        print('el_car_class_restriction=')
+        print('el_car_restriction=')
         print('')
     
     else:
@@ -66,9 +68,9 @@ while x <= 100:
         print("el_add=",z_map)
         print('el_gamemode=racing')
         print('el_laps=5')
-        print('el_bots=',randint(6,20))
-        print('el_car_class_restriction=',z_class_restriction)
-        print('el_car_restriction=',z_car_restriction)
+        print('el_bots=')
+        print('el_car_class_restriction=')
+        print('el_car_restriction=')
         print('')
 
     # racing_map = random.choice(racing_maps)
